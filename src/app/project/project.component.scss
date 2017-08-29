@@ -1,0 +1,23 @@
+:host{
+
+}
+.project-card {
+  width: 400px;
+  margin: 0 auto;
+  margin-top:20px;
+  margin-bottom: 20px;
+}
+
+.status {
+  float: right;
+  color: black;
+  border-radius: 10%;
+  padding: 10px;
+}
+
+.completed {
+  background-color: lightgreen;
+}
+.wip{
+	background-color:#FFEB3B;
+}

@@ -1,0 +1,19 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+}
+
+.sidenav {
+    padding: 15px;
+    width: 110px;
+    overflow: hidden;
+}
+.activeLink{
+	color:blue;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  overflow: hidden;
+}

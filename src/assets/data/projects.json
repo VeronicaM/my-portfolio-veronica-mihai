@@ -1,0 +1,79 @@
+[ 
+  { "title":"Quotes Generator",
+  	"subtitle":"Free Code Camp Curriculum",
+  	"img" :"../../assets/imgs/quotes.png",
+  	"description":"Get your Daily Dose of Quotes",
+  	"repo":"https://github.com/VeronicaM/quote-generator",
+  	"demo":"http://quotes-machine.herokuapp.com/index.html",
+  	"status":"Finished"
+   },
+   { "title":"Weather App",
+  	"subtitle":"Free Code Camp Curriculum",
+  	"img" :"../../assets/imgs/weather.png",
+  	"description":"Check out the weather anywhere in the world",
+  	"repo":"https://github.com/VeronicaM/weather-app",
+  	"demo":"https://weather-servicing.herokuapp.com/index.html",
+  	"status":"Finished"
+   },
+   { "title":"Wikipedia Viewer",
+  	"subtitle":"Free Code Camp Curriculum",
+  	"img" :"../../assets/imgs/wiki.png",
+  	"description":"Browse Wikipedia in one of the main languages around the world or play a trivia game to discover a random topic",
+  	"repo":"https://github.com/VeronicaM/wikipedia-viewer",
+  	"demo":"https://wikipedia-v.herokuapp.com/",
+  	"status":"Finished"
+   },
+   { "title":"Twitch TV",
+  	"subtitle":"Free Code Camp Curriculum",
+  	"img" :"../../assets/imgs/twitch.png",
+  	"description":"See Twitch TV Users online status and broadcasting",
+  	"repo":"https://github.com/VeronicaM/twitch-tv",
+  	"demo":"https://twitch-tv-fcc.herokuapp.com/index.html",
+  	"status":"Finished"
+   },
+
+   { "title":"Pomodoro Utility",
+  	"subtitle":"Free Code Camp Curriculum",
+  	"img" :"../../assets/imgs/pomodoro.png",
+  	"description":"Track your pomodoro sessions using a Chrome Browser Extension inspired by Momentum Dash",
+  	"repo":"https://github.com/VeronicaM/twitch-tv",
+  	"demo":"https://pomodoro-utility.herokuapp.com/",
+  	"status":"Work in Progress"
+   },    
+   {  
+    "title":"Calculator",
+  	"subtitle":"Free Code Camp Curriculum",
+  	"img" :"../../assets/imgs/calculator.png",
+  	"description":"A minimalist calculator",
+  	"repo":"https://github.com/VeronicaM/calculator",
+  	"demo":"https://veronicam.github.io/calculator/",
+  	"status":"Finished"
+   },
+   {  
+    "title":"MDN slackbot ",
+  	"subtitle":"Chingu Organization Project",
+  	"img" :"../../assets/imgs/mdnbot.png",
+  	"description":"Search MDN from your slack channels",
+  	"repo":"https://github.com/VEJATHER/MDNBot",
+  	"demo":"https://vejather.github.io/mdn-bot-landing-page/",
+  	"status":"Finished"
+   },
+   {  
+    "title":"Hangman Game",
+  	"subtitle":"Chingu Organization Project",
+  	"img" :"../../assets/imgs/hangman.png",
+  	"description":"A Hangman Game created in a Chingu Pair Programming Collaboration",
+  	"repo":"https://github.com/VeronicaM/Hangman",
+  	"demo":"https://veronicam.github.io/Hangman/",
+  	"status":"Finished"
+   },
+   {  
+    "title":"MemoRe",
+  	"subtitle":"Personal Project Collaboration",
+  	"img" :"../../assets/imgs/memore.png",
+  	"description":"Immerge yourself in quotes, lines, beautiful sayings through typing",
+  	"repo":"https://github.com/VeronicaM/memoRe",
+  	"demo":"",
+  	"status":"Work in Progress"
+   }	
+]
