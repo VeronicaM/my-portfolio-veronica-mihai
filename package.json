@@ -4,7 +4,8 @@
   "license": "MIT",
   "scripts": {
     "ng": "ng",
-    "start":"set NODE_ENV=production && ng build --prod && node server/app.js",
+    "startProd":"set NODE_ENV=production && ng build --prod && node server/app.js",
+    "start" :"node server/app.js",
     "startDev": "ng serve",
     "build": "ng build",
     "test": "ng test",
