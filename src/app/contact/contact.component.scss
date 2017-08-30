@@ -11,10 +11,13 @@ form{
     flex-direction: column;
     height: 80%;
     margin-top:20px;
-    width: 50%;
+    width: 50% ;
     margin: 0 auto;
     padding-top: 16px;
 }
 .message{
 	height:100px;
+}
+.mat-form-field{
+	width:100%;
 }
