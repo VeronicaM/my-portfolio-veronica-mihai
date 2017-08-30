@@ -11,9 +11,12 @@
 .activeLink{
 	color:blue;
 }
-.content {
-  display: flex;
-  flex-direction: column;
-  height: 100%;
-  overflow: hidden;
+:host {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.mat-sidenav-container {
+    flex: 1;
+     background: #f5f5f5;
 }

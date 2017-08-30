@@ -1,17 +1,19 @@
-<md-card *ngFor="let project of projects" class="project-card">
-  <md-card-header>
-    <md-card-title>{{project.title}}</md-card-title>
-    <md-card-subtitle>{{project.subtitle}}</md-card-subtitle>
-  </md-card-header>
-  <img md-card-image src='{{project.img}}'>
-  <md-card-content>
-    <p>
-      {{project.description}}
-    </p>
-  </md-card-content>
-  <md-card-actions>
-    <a md-button href="{{project.demo}}" target="_blank">DEMO</a>
-    <a md-button href="{{project.repo}}" target="_blank">GitHub Repo</a>
-    <md-chip [ngClass]="(project.status === 'Finished')? 'status completed' : 'status wip'"> {{project.status}}</md-chip>
-  </md-card-actions>
-</md-card>
+<div class="pageContent">
+  <md-card *ngFor="let project of projects" class="project-card">
+    <md-card-header>
+      <md-card-title>{{project.title}}</md-card-title>
+      <md-card-subtitle>{{project.subtitle}}</md-card-subtitle>
+    </md-card-header>
+    <img md-card-image src='{{project.img}}'>
+    <md-card-content>
+      <p>
+        {{project.description}}
+      </p>
+    </md-card-content>
+    <md-card-actions>
+      <a md-button href="{{project.demo}}" target="_blank">DEMO</a>
+      <a md-button href="{{project.repo}}" target="_blank">GitHub Repo</a>
+      <md-chip [ngClass]="(project.status === 'Finished')? 'status completed' : 'status wip'"> {{project.status}}</md-chip>
+    </md-card-actions>
+  </md-card>
+</div>

@@ -1,3 +1,14 @@
-<p>
-  contact works!
-</p>
+<form ngNoForm  action="https://formspree.io/mihaiveronica@ymail.com"
+      method="POST">
+     <md-input-container>
+    	<input mdInput placeholder="name" type="text" name="name">
+     </md-input-container>
+     <md-input-container>
+   		 <input mdInput placeholder="email" type="email" name="_replyto">
+     </md-input-container>
+     <md-input-container>
+    	<textarea class="message" mdInput placeholder="message" type="text" name="message"></textarea>
+     </md-input-container>
+    <button md-raised-button type="submit" color="primary"> Send </button>
+
+</form>

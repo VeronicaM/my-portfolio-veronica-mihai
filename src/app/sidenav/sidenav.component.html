@@ -1,10 +1,8 @@
 <md-sidenav-container>
   <md-sidenav #sidenav [opened]="isOpen" mode="side" class="sidenav">
     <a md-button routerLink="/about" routerLinkActive="activeLink"> About </a>
-    <a md-button routerLink="/projects" routerLinkActive="activeLink" >Projects</a> 
+    <a md-button routerLink="/projects" routerLinkActive="activeLink" >Projects</a><a md-button routerLink="/contact" routerLinkActive="activeLink" >Contact Me</a>
   </md-sidenav>
-    <div class="content">
-        <ng-content>
-        </ng-content>
-    </div>
+    <ng-content>
+    </ng-content>
 </md-sidenav-container>
