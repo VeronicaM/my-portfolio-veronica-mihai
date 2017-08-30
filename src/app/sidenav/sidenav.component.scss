@@ -1,11 +1,7 @@
-.container {
-    width: 100vw;
-    height: 100vh;
-}
 
 .sidenav {
     padding: 15px;
-    width: 110px;
+    width: 130px;
     overflow: hidden;
 }
 .activeLink{
@@ -19,4 +15,7 @@
 .mat-sidenav-container {
     flex: 1;
      background: #f5f5f5;
+}
+a[md-button] {
+  text-align:left;
 }

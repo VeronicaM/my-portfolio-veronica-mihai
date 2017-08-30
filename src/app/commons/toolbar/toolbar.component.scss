@@ -2,10 +2,15 @@
   flex: 1 1 auto;
 }
 .links{
-	.fa{
+	a {
+		text-decoration:none;
 		color:white;
 		padding:10px;
 	}
+	a:hover{
+	 	color: lightblue;
+	 }
+
 }
 .appLink{
 	text-decoration:none;

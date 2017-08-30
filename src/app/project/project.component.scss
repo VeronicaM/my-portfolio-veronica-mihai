@@ -4,7 +4,7 @@
 }
 .project-card {
   width: 400px;
-  margin: 0 auto;
+  margin-right:26px;
   margin-top:20px;
   margin-bottom: 20px;
 }
@@ -21,4 +21,17 @@
 }
 .wip{
 	background-color:#FFEB3B;
+}
+.pageContent{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: space-between;
+}
+@media (max-width:1330px){
+  .project-card {
+    margin:0 auto;
+    margin-top:20px;
+    margin-bottom: 20px;
+  }
 }
