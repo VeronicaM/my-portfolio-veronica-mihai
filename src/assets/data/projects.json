@@ -77,8 +77,8 @@
         "img": "../../assets/imgs/memore.png",
         "description": "Immerge yourself in quotes, lines, beautiful sayings through typing",
         "repo": "https://github.com/VeronicaM/memoRe",
-        "demo": "",
-        "status": "Work in Progress"
+        "demo": "https://memo-re.herokuapp.com/",
+        "status": "Finished"
     },
     {
         "title": "Multi-Functional Dash",
