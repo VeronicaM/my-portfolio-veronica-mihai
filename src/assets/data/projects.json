@@ -86,7 +86,7 @@
         "img": "../../assets/imgs/mult-dash.png",
         "description": "Pick a color on a page and get associated color palettes or browse through your stored history of picked colors and see their associated color palettes. \n Shorten URLs or browse through your history of shortened URLs.\n Use the context menu to select a text from a page and store it in a quotes collection.",
         "repo": "https://github.com/turtlesTeam17/multifunctional-dashboard",
-        "demo": "",
+        "demo": "https://chrome.google.com/webstore/detail/multidash/noakbipcieoodhnfdbcdcecbjljohmmc",
         "status": "Finished"
     }
 ]
