@@ -2,7 +2,7 @@
   {  
     "title":"Multidash",
   	"subtitle":"Chingu Organization Project",
-  	"img" :"../../assets/imgs/multidash.png",
+  	"img" :"../../assets/imgs/multidash.jpg",
   	"description":"A chrome extension with color picker, url-shortener and notes taking functionalities",
   	"repo":"https://github.com/turtlesTeam17/multifunctional-dashboard",
   	"demo":"https://chrome.google.com/webstore/detail/multidash/noakbipcieoodhnfdbcdcecbjljohmmc",
