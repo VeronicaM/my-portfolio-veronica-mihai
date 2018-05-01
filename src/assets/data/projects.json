@@ -67,13 +67,76 @@
   	"demo":"https://veronicam.github.io/Hangman/",
   	"status":"Finished"
    },
-   {  
-    "title":"MemoRe",
+  {  
+    "title":"Memore",
   	"subtitle":"Personal Project Collaboration",
   	"img" :"../../assets/imgs/memore.png",
   	"description":"Immerge yourself in quotes, lines, beautiful sayings through typing",
-  	"repo":"https://github.com/VeronicaM/memoRe",
-  	"demo":"",
-  	"status":"Work in Progress"
-   }	
+  	"repo":"https://github.com/CreativePower-alve/memoRe",
+  	"demo":"https://memo-re.herokuapp.com/login",
+  	"status":"Finished"
+   },
+  {  
+    "title":"Multidash",
+  	"subtitle":"Chingu Organization Project",
+  	"img" :"../../assets/imgs/multidash.png",
+  	"description":"A chrome extension with color picker, url-shortener and notes taking functionalities",
+  	"repo":"https://github.com/turtlesTeam17/multifunctional-dashboard",
+  	"demo":"https://chrome.google.com/webstore/detail/multidash/noakbipcieoodhnfdbcdcecbjljohmmc",
+  	"status":"Finished"
+   },
+  {  
+    "title":"Dungeon Crawler Game",
+  	"subtitle":"Freecodecamp Curriculum",
+  	"img" :"../../assets/imgs/dungeon.png",
+  	"description":"Dungeon Crawler Game made in React",
+  	"repo":"https://github.com/VeronicaM/dungeon-crawler-game",
+  	"demo":"https://veronicam.github.io/dungeon-crawler-game/",
+  	"status":"Finished"
+   },
+  {  
+    "title":"Unicorns App",
+  	"subtitle":"Fun app",
+  	"img" :"../../assets/imgs/unicorns.png",
+  	"description":"Create and mate unicorns to get baby unicorns :) ",
+  	"repo":"https://github.com/VeronicaM/unicorns-app",
+  	"demo":"https://unicorns-app.herokuapp.com/dashboard",
+  	"status":"Finished"
+   },
+  {  
+    "title":"Votting App",
+  	"subtitle":"Freecodecamp Curriculum",
+  	"img" :"../../assets/imgs/voting.png",
+  	"description":"Create and vote on polls ",
+  	"repo":"https://github.com/VeronicaM/voting-app",
+  	"demo":"https://voting-app-mv.herokuapp.com/dashboard",
+  	"status":"Finished"
+   }, 
+  {  
+    "title":"Game of Life",
+  	"subtitle":"Freecodecamp Curriculum",
+  	"img" :"../../assets/imgs/gameoflife.png",
+  	"description":"Observe the cells generation process and/or set up your own configurations",
+  	"demo":"https://veronicam.github.io/game-of-life",
+  	"repo":"https://github.com/VeronicaM/game-of-life",
+  	"status":"Finished"
+   },
+  {  
+    "title":"Simon Game",
+  	"subtitle":"Freecodecamp Curriculum",
+  	"img" :"../../assets/imgs/simon.png",
+  	"description":"Remember the played button sequence and reproduce it in order",
+  	"repo":"https://github.com/VeronicaM/simon-game",
+  	"demo":"https://veronicam.github.io/simon-game/",
+  	"status":"Finished"
+   },
+  {  
+    "title":"Tic Tac Toe",
+  	"subtitle":"Freecodecamp Curriculum",
+  	"img" :"../../assets/imgs/tictactoe.png",
+  	"description":"Simple tic-tac-toe player - computer game with medium level of difficulty ",
+  	"repo":"https://github.com/VeronicaM/tic-tac-toe",
+  	"demo":"https://veronicam.github.io/tic-tac-toe/",
+  	"status":"Finished"
+   }
 ]
