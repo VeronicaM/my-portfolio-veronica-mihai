@@ -58,7 +58,7 @@
   	"description":"Track your pomodoro sessions using a Chrome Browser Extension inspired by Momentum Dash",
   	"repo":"https://github.com/VeronicaM/twitch-tv",
   	"demo":"https://pomodoro-utility.herokuapp.com/",
-  	"status":"Work in Progress"
+  	"status":"Finished"
    },    
     { "title":"Quotes Generator",
   	"subtitle":"Freecodecamp Curriculum",
