@@ -2,6 +2,9 @@
   "name": "vera-web",
   "version": "0.0.0",
   "license": "MIT",
+   "engines": {
+        "node": "8.9.1"
+    },
   "scripts": {
     "ng": "ng",
     "startProd": "set NODE_ENV=production && ng build --prod && node server/app.js",
